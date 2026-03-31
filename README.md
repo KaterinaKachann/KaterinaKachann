@@ -1,13 +1,13 @@
 Hi 👋 My name is Katerina Kachan
 =========================================
 
-Frontend developer
+Software developer
 -------------------------------------------------
 
-* 🌍  I'm based in Gdynia, Poland
+* 🌍  I'm based in Tbilisi, Georgia
 * ✉️  You can contact me at [eka.kachan@gmail.com](mailto:eka.kachan@gmail.com)
-* 🧠  My stack JavaScript| Typescript, React, Next JS, Redux.
-* 🧠  I'm learning Node JS, Symphony, Docker
+* 🧠  My stack JavaScript | Typescript, React, Next JS, Redux, React Query, Zustand, Node JS, Claude. 
+* 🧠  I'm learning SQL, Express, AI Optimization, Deployment
 * 🤝  I'm open to collaborating Medicine, Marketing, Eco startups, AI
 
 ### Skills
