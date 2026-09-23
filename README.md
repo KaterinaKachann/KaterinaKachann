@@ -10,7 +10,12 @@
 
 ### Skills
 
-[![JavaScript](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![TypeScript](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg)](https://www.typescriptlang.org/) [![React](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg)](https://reactjs.org/) [![NextJs](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg)](https://nextjs.org/docs) [![Material UI](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg)](https://mui.com/)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=flat&logo=mui&logoColor=white)
 
 [![KaterinaKachann's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaterinaKachann&show_icons=true&theme=dark)](https://github-readme-stats.vercel.app/api?username=KaterinaKachann&show_icons=true&theme=dark)
 
